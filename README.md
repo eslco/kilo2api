@@ -101,7 +101,7 @@ deanxv/kilo2api
 > Zeabur 的服务器在国外,自动解决了网络的问题,~~同时免费的额度也足够个人使用~~
 
 1. 首先 **fork** 一份代码。
-2. 进入 [Zeabur](https://zeabur.com?referralCode=deanxv),使用github登录,进入控制台。
+2. 进入 [Zeabur](https://zeabur.com/referral?referralCode=oylinco),使用github登录,进入控制台。
 3. 在 Service -> Add Service,选择 Git（第一次使用需要先授权）,选择你 fork 的仓库。
 4. Deploy 会自动开始,先取消。
 5. 添加环境变量
